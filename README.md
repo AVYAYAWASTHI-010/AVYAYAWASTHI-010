@@ -2,7 +2,7 @@
 **Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer from India**
 
 📩 **Email Me:** ✉️ **avyay6868@gmail.com** — For Collaboration, Projects, or Just to Say Hi! 😊
-**My Portfolio :**https://avyayawasthi.lovable.app/**
+**My Portfolio:** **https://avyayawasthi.lovable.app/**
 
 - 🔭 **Currently working on:** Building interactive and insightful dashboards using **Power BI**  
 - 🌱 **Currently learning:** **Data Analysis, Python, SQL, Machine Learning**  
